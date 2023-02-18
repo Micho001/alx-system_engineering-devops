@@ -1,1 +1,1 @@
-system devops
+This is my first readme file on shell basics
