@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime school
+tr "A" "Z" | tr "c" "e"
