@@ -1,4 +1,4 @@
-#**PROJECT OBJECTIVE**
+#**PROJECT TASK OBJECTIVES**
 #
 ##0. My name is Betty: 
 
